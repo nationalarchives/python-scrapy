@@ -11,7 +11,7 @@ class MongoDBPipeline(object):
             settings['MONGODB_PORT']
         )
         db = connection[settings['MONGODB_DB']]
-        self.collection = db['es_rsguides']
+        self.collection = db['tna_researchguides']
 
     def process_item(self, item, spider):
         for data in item:

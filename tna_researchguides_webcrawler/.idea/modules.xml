@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/es_rsguides.iml" filepath="$PROJECT_DIR$/.idea/es_rsguides.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/tna_researchguides_webcrawler.iml" filepath="$PROJECT_DIR$/.idea/tna_researchguides_webcrawler.iml" />
     </modules>
   </component>
 </project>
