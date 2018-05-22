@@ -2,7 +2,6 @@ from scrapy.spider import CrawlSpider, Rule
 from scrapy.linkextractor import LinkExtractor
 from tna_researchguides_webcrawler.helpers import *
 
-
 class TnaResearchguidesWebcrawler(CrawlSpider):
     handle_httpstatus_list = [301]
     name = 'rsguides'
